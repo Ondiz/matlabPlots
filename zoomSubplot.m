@@ -1,13 +1,14 @@
 function zoomSubplot(figNum,r,c,axis,lim1,lim2)
 
-% Same zoom into all subplots:
+% Same zoom into all subplots
 %
-% figNum: number of the figure with subplots
-% f: number of rows
-% c: number of columns
-% axis: axis to synchronise 'x', 'y' or 'xy' 
-% lim1: limit to axis if single
-% lim2: limits to second axis (x and then y)
+% Arguments: 
+% - figNum: number of the figure with subplots
+% - f: number of rows
+% - c: number of columns
+% - axis: axis to synchronise 'x', 'y' or 'xy' 
+% - lim1: limit to axis if single
+% - lim2: limits to second axis (x and then y)
 
 % Copyright (C) 2016  Ondiz Zarraga
 % 

@@ -2,9 +2,10 @@ function toPdf(inputFolder, outputFolder)
 
 % Export all files in folder to pdf without opening
 % 
+% Arguments
 % - inputFolder: complete path to folder where fig figures stand
 % - outputFolder: complete path to folder to where pdfs should be exported 
-%
+
 % Copyright (C) 2016  Ondiz Zarraga
 % 
 % This program is free software: you can redistribute it and/or modify
